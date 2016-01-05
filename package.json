@@ -1,7 +1,7 @@
 {
   "name": "mroutes",
   "version": "1.0.0",
-  "description": "mroutes = auto mount express routes with routes_folder_path",
+  "description": "mount-routes-fix = auto mount express routes with routes_folder_path",
   "main": "index.js",
   "scripts": {
     "start": "npm publish .",
@@ -19,7 +19,7 @@
     "require",
     "directory"
   ],
-  "author": "i5ting",
+  "author": "caos",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/i5ting/mount-routes/issues"
