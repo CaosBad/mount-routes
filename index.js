@@ -52,6 +52,8 @@ function _track_routes(file, path, handle) {
     // console.log(_route);
     // console.log(_route.stack);
     // console.log(_route.methods);
+    if(!_route)continue;
+
     var params = _route.stack.params;
     
     for(var j in _route.methods){

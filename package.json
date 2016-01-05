@@ -1,7 +1,7 @@
 {
-  "name": "mount-routes",
-  "version": "1.0.3",
-  "description": "mount-routes = auto mount express routes with routes_folder_path",
+  "name": "mroutes",
+  "version": "1.0.0",
+  "description": "mroutes = auto mount express routes with routes_folder_path",
   "main": "index.js",
   "scripts": {
     "start": "npm publish .",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/i5ting/mount-routes.git"
+    "url": "https://github.com/ImCaos/mount-routes"
   },
   "keywords": [
     "express",
