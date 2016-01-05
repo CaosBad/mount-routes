@@ -1,6 +1,6 @@
 {
   "name": "mroutes",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "mount-routes-fix = auto mount express routes with routes_folder_path",
   "main": "index.js",
   "scripts": {
